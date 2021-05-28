@@ -47,7 +47,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "National Center for Supercomputing Applications"
+title: "Software Carpentry workshop"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
